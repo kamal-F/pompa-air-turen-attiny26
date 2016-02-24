@@ -9,4 +9,4 @@ elektronik,no pcb, hardwired type
 
 use atmelstudio, usbasp downloader
 
-dari 2014-2016, ganti sensor baru sekali, alasan gara-gara pl? mati-nyala, inrush current 
+dari 2014-2016, ganti sensor baru sekali, alasan gara-gara pl* mati-nyala, inrush current 

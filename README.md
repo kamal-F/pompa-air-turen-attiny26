@@ -6,4 +6,6 @@ hcsr04 nya asal tidak terendam cukup awet, buat jaga2 bisa semprot pakai dobelyu
 
 elektronik,no pcb, hardwired type
 
-dari 2014-2016, ganti sensor baru sekali, alasan gara-gara pln mati-nyala, inrush current 
+use atmelstudio, usbasp downloader
+
+dari 2014-2016, ganti sensor baru sekali, alasan gara-gara pl? mati-nyala, inrush current 

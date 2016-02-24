@@ -3,7 +3,7 @@ pompa air turen attiny26
 
 implementasi: pompa air-turen-attiny26-lcd lemot
 
-hcsr04 nya asal tidak terendam cukup awet, buat jaga2 bisa semprot pakai dobelyudiforti secukupnya
+hcsr04 nya asal tidak terendam cukup awet, buat jaga2 bisa semprot pakai dabelyudiforti secukupnya
 
 elektronik,no pcb, hardwired type
 
